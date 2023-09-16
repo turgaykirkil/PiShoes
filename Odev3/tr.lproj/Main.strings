@@ -1,0 +1,60 @@
+
+/* Class = "UIButton"; configuration.title = "40"; ObjectID = "7k5-L3-kq7"; */
+"7k5-L3-kq7.configuration.title" = "40";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7k5-L3-kq7"; */
+"7k5-L3-kq7.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "AbJ-XT-4Kz"; */
+"AbJ-XT-4Kz.title" = "Item";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "Aph-ab-hjj"; */
+"Aph-ab-hjj.text" = "Beden";
+
+/* Class = "UIButton"; configuration.title = "Add to Cart"; ObjectID = "Aw0-8M-BTS"; */
+"Aw0-8M-BTS.configuration.title" = "Sepete Ekle";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Aw0-8M-BTS"; */
+"Aw0-8M-BTS.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Nike Club Max"; ObjectID = "Frc-9s-o2y"; */
+"Frc-9s-o2y.text" = "Nike Club Max";
+
+/* Class = "UIButton"; configuration.title = "39"; ObjectID = "Ixg-tv-P30"; */
+"Ixg-tv-P30.configuration.title" = "39";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ixg-tv-P30"; */
+"Ixg-tv-P30.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "37"; ObjectID = "NJv-a6-bty"; */
+"NJv-a6-bty.configuration.title" = "37";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NJv-a6-bty"; */
+"NJv-a6-bty.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "38"; ObjectID = "Sy1-ee-KHG"; */
+"Sy1-ee-KHG.configuration.title" = "38";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Sy1-ee-KHG"; */
+"Sy1-ee-KHG.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "41"; ObjectID = "ZFx-iu-RLE"; */
+"ZFx-iu-RLE.configuration.title" = "41";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZFx-iu-RLE"; */
+"ZFx-iu-RLE.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "43"; ObjectID = "ffW-kP-OyC"; */
+"ffW-kP-OyC.configuration.title" = "43";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ffW-kP-OyC"; */
+"ffW-kP-OyC.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "42"; ObjectID = "iWp-jk-5HE"; */
+"iWp-jk-5HE.configuration.title" = "42";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iWp-jk-5HE"; */
+"iWp-jk-5HE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "$ 32.60"; ObjectID = "lo7-WW-Blr"; */
+"lo7-WW-Blr.text" = "880,20 ₺";
